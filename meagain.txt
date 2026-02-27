@@ -1,3 +1,4 @@
 Onari on the rise
 way to go...it will be a blast on the continent of Africa and beyond!!!!X
-This is a bug fixed without stash
+This is a bug fixed without stash, stashing is now complete and this is to fix conflict bug
+
